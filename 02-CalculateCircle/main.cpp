@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Simple Calculator Program
+// Calculate Wide and Circumference Circle Program
 int main()
 {
   double r, wide, circumference;
