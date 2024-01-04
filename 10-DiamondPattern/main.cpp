@@ -15,7 +15,7 @@ int main()
   }
 
   for (int i = 10 - 1; i >= 1; --i) {
-    for (int j = 1; j <= 10 - i; ++j) {
+    for (int j = 1; j <= 10 - i; ++j) { 
       cout << " ";
     }
     for (int k = 1; k <= 2 * i - 1; ++k) {
